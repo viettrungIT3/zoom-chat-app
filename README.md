@@ -71,6 +71,8 @@ lib/
 
 1. Clone the repository
 2. Change the `serverUrl` in `lib/utils/config.dart` to your server's URL
+
+    (You can use `https://zoom-chat-054288a07b00.herokuapp.com/ for testing with no history messages)
 3. Install dependencies
 4. Run the app
 
