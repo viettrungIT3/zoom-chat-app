@@ -37,6 +37,12 @@ lib/
  └── main.dart
 ```
 
+### Screenshots
+<div style="display: flex; flex-direction: row; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/dd24bcb1-5cd8-4e7f-a668-ddaa04286e0d" alt="Screenshot 1" width="200">
+    <img src="https://github.com/user-attachments/assets/d10a2539-4ff5-45ba-bc75-737fa617c56c" alt="Screenshot 2" width="200">
+</div>
+
 ---
 
 ## Features
